@@ -32,7 +32,9 @@ O **Relógio Digital** utiliza HTML, CSS e JavaScript para criar uma interface f
 │   └── script.js        # Lógica de atualização do relógio
 ├── index.html           # Página principal do projeto
 └── README.md            # Documentação do projeto
+```
+---
 
-## IMAGEM ILUSTRATIVA 
+## IMAGEM ILUSTRATIVA
 
-![image](https://github.com/user-attachments/assets/39a27fc4-86f0-41a8-ab81-b32a8b2fa42e)
+![Captura](https://github.com/user-attachments/assets/c4439a5c-e1b6-4541-a172-dfa3c4808afa)
